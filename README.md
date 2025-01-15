@@ -56,7 +56,7 @@ Hi, I'm **Nagabhushana H K**, a tech enthusiast and passionate developer with ex
    <!-- //2nd one  -->
 
 
-<!-- <h1 align="center" style="font-size: 3rem; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: skyblue; text-shadow: 0px 0px 20px skyblue, 0px 0px 30px deepskyblue;">
+<h1 align="center" style="font-size: 3rem; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: skyblue; text-shadow: 0px 0px 20px skyblue, 0px 0px 30px deepskyblue;">
   🌟 Nagabhushana H K 🌟
 </h1>
 
@@ -109,7 +109,7 @@ Hi, I'm **Nagabhushana H K**, a tech enthusiast and passionate developer with ex
   <a href="mailto:developer.bhushanhk@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
   </a>
-</p> -->
+</p>
 
 
 
@@ -119,7 +119,7 @@ Hi, I'm **Nagabhushana H K**, a tech enthusiast and passionate developer with ex
 
 
 <!-- Animated Name -->
-<div align="center">
+<!-- <div align="center">
   <h1 style="
       font-size: 3rem;
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -199,4 +199,4 @@ Hi, I'm **Nagabhushana H K**, a tech enthusiast and passionate developer with ex
 
 
 
-
+ -->
