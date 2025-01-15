@@ -43,7 +43,7 @@ Hi, I'm **Nagabhushana H K**, a tech enthusiast and passionate developer with ex
 
 ## 📸 Profile Banner
 
-![GitHub Banner](github-readm.jpg)
+![GitHub Banner](github readm.jpg)
 
 > The banner image appears automatically when someone visits your profile! -->
 
@@ -54,7 +54,7 @@ Hi, I'm **Nagabhushana H K**, a tech enthusiast and passionate developer with ex
 </h1>
 
 <p align="center">
-  <img src="github-readm.jpg" alt="GitHub Banner" style="width:80%; border-radius:10px;">
+  <img src="github readm.jpg" alt="GitHub Banner" style="width:80%; border-radius:10px;">
 </p>
 
 ---
