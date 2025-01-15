@@ -1,21 +1,21 @@
-<div align="center">
-  <h1 style="
-      font-size: 3rem;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      color: skyblue;
-      text-shadow: 0px 0px 20px skyblue, 0px 0px 30px deepskyblue;
-    ">
-    🌟 Nagabhushana H K 🌟
-  </h1>
-</div>
+# **Nagabhushana H K**
 
-<div align="center">
-  <img src="github_readm.jpg" alt="GitHub Banner" style="width:80%; border-radius:10px;">
-</div>
+<p align="center">
+  <span style="font-size: 3rem; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+                color: skyblue; 
+                text-shadow: 0px 0px 15px skyblue, 0px 0px 30px deepskyblue;">
+    🌟 Nagabhushana H K 🌟
+  </span>
+</p>
+
+<p align="center">
+  <img src="github_readm.jpg" alt="GitHub Banner" style="width:80%; border-radius:10px; 
+                animation: fadeIn 2s ease-in-out;">
+</p>
 
 ---
 
-## 👨‍💻 Technical Skills
+## **👨‍💻 Technical Skills**
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white&style=for-the-badge" alt="Golang">
@@ -36,7 +36,7 @@
 
 ---
 
-## 🌟 About Me
+## **🌟 About Me**
 
 <p align="center">
   🚀 Always eager to solve challenges and explore new technologies. <br>
@@ -46,7 +46,7 @@
 
 ---
 
-## 🌐 Let's Connect!
+## **🌐 Let's Connect!**
 
 <p align="center">
   <a href="https://linkedin.com/in/bhushanaruto05">
@@ -59,3 +59,10 @@
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
   </a>
 </p>
+
+<style>
+  @keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity: 1;}
+  }
+</style>
