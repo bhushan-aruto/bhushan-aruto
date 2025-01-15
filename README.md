@@ -48,13 +48,12 @@ Hi, I'm **Nagabhushana H K**, a tech enthusiast and passionate developer with ex
 > The banner image appears automatically when someone visits your profile! -->
 
 
-
 <h1 align="center" style="font-size: 3rem; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: skyblue; text-shadow: 0px 0px 20px skyblue, 0px 0px 30px deepskyblue;">
   🌟 Nagabhushana H K 🌟
 </h1>
 
 <p align="center">
-  <img src="github readm.jpg" alt="GitHub Banner" style="width:80%; border-radius:10px;">
+  <img src="github_readm.jpg" alt="GitHub Banner" style="width:80%; border-radius:10px;">
 </p>
 
 ---
@@ -103,4 +102,6 @@ Hi, I'm **Nagabhushana H K**, a tech enthusiast and passionate developer with ex
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
   </a>
 </p>
+
+
 
