@@ -1,9 +1,16 @@
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00BFFF&center=true&vCenter=true&width=940&lines=✨+Nagabhushana+H+K+✨;Welcome+to+My+GitHub+Profile!;Let's+Innovate+and+Collaborate!)
+  <h1 style="
+      font-size: 3rem;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      color: skyblue;
+      text-shadow: 0px 0px 20px skyblue, 0px 0px 30px deepskyblue;
+    ">
+    ✨ Nagabhushana H K ✨
+  </h1>
+</div>
 
+<div align="center">
   <img src="github_readm.jpg" alt="GitHub Banner" style="width:80%; border-radius:10px;">
-  
 </div>
 
 ---
@@ -38,17 +45,6 @@
 🔍 Continuously learning and exploring new technologies to stay ahead.  
 </p>
 
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhushan-aruto&show_icons=true&theme=tokyonight&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhushan-aruto&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
