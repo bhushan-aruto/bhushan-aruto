@@ -39,10 +39,12 @@
 ## 🌟 About Me
 
 <p align="center">
-  🚀 Always eager to solve challenges and explore new technologies. <br>
-  💡 Strong believer in clean code and scalable systems. <br>
-  🤝 Open to collaborations on exciting projects and ideas.
+  🚀 Passionate about solving complex challenges and pushing the boundaries of technology. <br>
+  💡 Advocate for clean, efficient, and scalable code that makes a real impact. <br>
+  🤝 Always open to collaboration on innovative projects that drive change. <br>
+  🔍 Continuously learning and exploring new technologies to stay ahead.  
 </p>
+
 
 ---
 
