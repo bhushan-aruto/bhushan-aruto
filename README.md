@@ -9,7 +9,7 @@
                    0px 0px 30px rgba(229, 46, 113, 0.5), 
                    0px 0px 40px rgba(0, 123, 255, 0.5);
     ">
-    ✨ Nagabhushana H K ✨
+    ✨ NAGABHUSHANA H K ✨
   </h1>
 </div>
 
