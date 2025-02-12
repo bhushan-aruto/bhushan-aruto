@@ -5,7 +5,7 @@
       color: skyblue;
       text-shadow: 0px 0px 20px skyblue, 0px 0px 30px deepskyblue;
     ">
-    🌟 Nagabhushana H K 🌟
+    ✨ Nagabhushana H K ✨
   </h1>
 </div>
 
