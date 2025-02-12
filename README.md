@@ -1,9 +1,13 @@
 <div align="center">
   <h1 style="
-      font-size: 3rem;
+      font-size: 4rem;
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      color: skyblue;
-      text-shadow: 0px 0px 20px skyblue, 0px 0px 30px deepskyblue;
+      background: linear-gradient(90deg, #ff8a00, #e52e71, #007bff);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      text-shadow: 0px 0px 20px rgba(255, 138, 0, 0.5), 
+                   0px 0px 30px rgba(229, 46, 113, 0.5), 
+                   0px 0px 40px rgba(0, 123, 255, 0.5);
     ">
     ✨ Nagabhushana H K ✨
   </h1>
@@ -44,7 +48,6 @@
 🤝 Always open to collaboration on innovative projects that drive change. <br>
 🔍 Continuously learning and exploring new technologies to stay ahead.  
 </p>
-
 
 ---
 
