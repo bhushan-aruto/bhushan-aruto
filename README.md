@@ -39,10 +39,10 @@
 ## 🌟 About Me
 
 <p align="center">
-  🚀 Passionate about solving complex challenges and pushing the boundaries of technology. <br>
-  💡 Advocate for clean, efficient, and scalable code that makes a real impact. <br>
-  🤝 Always open to collaboration on innovative projects that drive change. <br>
-  🔍 Continuously learning and exploring new technologies to stay ahead.  
+🚀 Passionate about solving complex challenges and pushing the boundaries of technology. <br>
+💡 Advocate for clean, efficient, and scalable code that makes a real impact. <br>
+🤝 Always open to collaboration on innovative projects that drive change. <br>
+🔍 Continuously learning and exploring new technologies to stay ahead.  
 </p>
 
 
