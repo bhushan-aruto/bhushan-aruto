@@ -1,18 +1,3 @@
-<div align="center">
-  <h1 style="
-      font-size: 4rem;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background: linear-gradient(90deg, #ff8a00, #e52e71, #007bff);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      text-shadow: 0px 0px 20px rgba(255, 138, 0, 0.5), 
-                   0px 0px 30px rgba(229, 46, 113, 0.5), 
-                   0px 0px 40px rgba(0, 123, 255, 0.5);
-    ">
-    ✨ NAGABHUSHANA H K ✨
-  </h1>
-</div>
-
 
 <div align="center">
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="1.75%" align="left" alt="flame1"/>
