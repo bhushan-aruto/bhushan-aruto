@@ -5,6 +5,7 @@
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="1.75%" align="right" alt="flame2"/>
 </div>
 
+---
 
 <div align="center">
   <img src="github_readm.jpg" alt="GitHub Banner" style="width:80%; border-radius:10px;">
