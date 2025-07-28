@@ -13,6 +13,14 @@
   </h1>
 </div>
 
+
+<div align="center">
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="1.75%" align="left" alt="flame1"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Nagabhushan!;Welcome+to+My+GitHub+Profile!;Let's+Innovate+and+Collaborate!" alt="Typing Animation" width="90%" align="middle"/>
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="1.75%" align="right" alt="flame2"/>
+</div>
+
+
 <div align="center">
   <img src="github_readm.jpg" alt="GitHub Banner" style="width:80%; border-radius:10px;">
 </div>
